@@ -43,7 +43,7 @@ Implementasi proyek mencakup beberapa tahap utama:
 1. Buka proyek Java yang telah dibuat sebelumnya (misalnya `Pertemuan9`).
 2. Tambahkan library `jar` yang diperlukan untuk kompatibilitas dengan NetBeans.
 3. Buat file baru: **New File → Report → Report Wizard**.
-4. Pilih layout, beri nama (misalnya `DataPramuka`), dan lanjutkan.
+4. Pilih layout, beri nama (misalnya `ligasawah`), dan lanjutkan.
 
 ### 3. Koneksi ke Database
 
@@ -60,7 +60,7 @@ Implementasi proyek mencakup beberapa tahap utama:
 
 ### 5. Menambahkan Fungsi Cetak Laporan
 
-1. Tambahkan library iReport pada source code `DataPramuka.java`.
+1. Tambahkan library iReport pada source code `ligasawah.java`.
 2. Pada tombol **Cetak**, tambahkan kode untuk mencetak laporan menjadi **PDF**.
 
 ---
